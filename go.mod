@@ -1,4 +1,4 @@
-module delayqueue
+module github.com/CharellKing/delay_queue
 
 go 1.20
 
